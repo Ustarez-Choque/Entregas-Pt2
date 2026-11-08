@@ -55,34 +55,37 @@ Durante el desarrollo se aplicaron varios conceptos importantes (mi coco murio):
 - Stream API: para realizar búsquedas, filtros, ordenamientos y etc etc.
 
 --- 
+
 ## Nuestra flota
+
 Actualmente contamos con cuatro unidades:
-| Marca | | Modelo | | Tipo | | Precio |
-|---| |---| |---| |---|
-| Peugeot |	| 206 |	| Auto |	| $200.000,00 |
-| Honda |	| Titan |	| Moto |	| $60.000,00 |
-| Peugeot |	| 208 |	| Auto |	| $250.000,00 |
-| Yamaha |	| YBR |	| Moto |	| $80.500,50 |
-Perdón, pero no tenemos financiación suficiente y no nos gusta aceptar limosnas...  tampoco se cómo vamos a llegar a los
-proximos modelos
+
+| Marca  | Modelo | Tipo | Precio       |
+|--------|--------|------|--------------|
+| Peugeot | 206    | Auto | $200.000,00  |
+| Honda   | Titan  | Moto | $60.000,00   |
+| Peugeot | 208    | Auto | $250.000,00  |
+| Yamaha  | YBR    | Moto | $80.500,50   |
+
+Perdón, pero no tenemos financiación suficiente y no nos gusta aceptar limosnas... tampoco sabemos cómo vamos a llegar a los próximos modelos.
 
 --- 
 
-## ¿Cómo ejecutar el proyecto?
+## ¿Cómo ejecutar este proyecto?
 No hace falta traer casco o tener licencia ni seguro.
 
 Solamente necesitás:
 - Tener instalado Java.
-- Tener Maven configurado (yo use Spring Boot pero bueno).
+- Tener Maven configurado (yo use Spring Boot pero vos podes usar el que quieras).
 - Clonar este repositorio
 
 ---
 
-## Resultado que espero
+## Resultado que espero 
 Al ejecutar el programa, se mostrará el listado de vehículos, las comparaciones de precios y los distintos ordenamientos solicitados.
 La aplicación no solicita datos por teclado ni necesita intervención del usuario, espero.
 Es una concesionaria bastante independiente, básicamente trabaja sola.
-Lograr aprobar con suerte, con el tiempo se ira mejorando 
+Lograr aprobar con suerte, este proyecto se ira mejorando con el tiempo 
 
 --- 
 
